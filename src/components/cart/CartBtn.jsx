@@ -10,7 +10,7 @@ const CartBtn = () => {
       <span className=" py-[0.25rem] px-[1rem] rounded-[25px] ml-[1rem] font-bold bg-bg4 hover:bg-bg5 active:bg-bg5">
         0
       </span>
-    </button>
+    </button> 
   );
 }
 

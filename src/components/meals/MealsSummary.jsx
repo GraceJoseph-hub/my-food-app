@@ -2,7 +2,7 @@ import React from 'react'
 
 const MealsSummary = () => {
   return (
-    <section className="relative max-w-[45rem] w-[90%] m-auto mt-[-10rem] bg-bg2 text-white rounded-[14px] p-[1rem] shadow-bxshadow2">
+    <section className="relative max-w-[45rem] w-[90%] m-auto mt-[-10rem] bg-bg2 text-white text-center rounded-[14px] p-[2rem] shadow-bxshadow2">
       <h2 className='text-[2rem] mt-0'>Delicious Food, Delivered To You</h2>
       <p>
         Choose your favorite meal from our broad selection of available meals
